@@ -1,9 +1,20 @@
 [
   {
+    "name": "profile",
+    "path": "/profile",
+    "component": "/Users/minjeong/Documents/GitHub/nuxt_bookstore/pages/profile.vue",
+    "chunkName": "pages/profile"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "/Users/minjeong/Documents/GitHub/nuxt_bookstore/pages/signup.vue",
+    "chunkName": "pages/signup"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/Users/minjeong/Documents/GitHub/nuxt_bookstore/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_ec1c2b66"
+    "chunkName": "pages/index"
   }
 ]
